@@ -1,2 +1,2 @@
 # TopCow2023
-nnU-Net for Circle of Willis Binary Segmentation with MRA
+nnU-Net for Binary Segmentation of Circle of Willis with MRA
