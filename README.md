@@ -9,8 +9,8 @@ Mean clDice: 0.9818 ± 0.0193
 Betti-0 Error: 0.8857 ± 0.8668
 
 # Result
+for the final results, please follow the challenge website: https://topcow23.grand-challenge.org/evaluation/finaltest-mra-binary/leaderboard/
 </br>
-https://topcow23.grand-challenge.org/evaluation/finaltest-mra-binary/leaderboard/
 ![image](https://github.com/orouskhani/TopCow2023/blob/main/result2.png)
 
 
