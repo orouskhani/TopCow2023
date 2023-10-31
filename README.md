@@ -8,4 +8,8 @@ Mean CoWclass Dice: 0.9537 ± 0.022
 Mean clDice: 0.9818 ± 0.0193
 Betti-0 Error: 0.8857 ± 0.8668
 
+# Example
+Original Image: (Image No.88 from training data)
+</br>
+![image](https://github.com/orouskhani/Cerebral-Artery-Segmentation-Challenge-MICCAI-SMRA-2023/blob/main/snapshot0002.png)
 
