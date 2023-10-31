@@ -14,7 +14,6 @@ https://topcow23.grand-challenge.org/evaluation/finaltest-mra-binary/leaderboard
 
 
 # Example
-Original Image: (Image No.88 from training data)
 </br>
 ![image](https://github.com/orouskhani/TopCow2023/blob/main/result.png)
 
