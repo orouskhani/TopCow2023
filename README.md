@@ -8,6 +8,9 @@ Mean CoWclass Dice: 0.9537 ± 0.022
 Mean clDice: 0.9818 ± 0.0193
 Betti-0 Error: 0.8857 ± 0.8668
 
+# Result
+https://github.com/orouskhani/TopCow2023/blob/main/result2.png
+
 # Example
 Original Image: (Image No.88 from training data)
 </br>
