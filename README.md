@@ -1,7 +1,7 @@
-# TopCow2023
-Our Model: nnU-Net for Binary Segmentation of Circle of Willis with MRA
+# Circle of Wilis segmentation challenge (TopCow2023): MICCAI 2023
+Our Model: 
 
-We got the 3rd rank in the final phase of Binary Segmentation of the Circle of Willis with MRA. For more details, please read the pdf file as uploaded. 
+We used nnU-Net with modified loss and got the 3rd rank in the final phase of Binary Segmentation of the Circle of Willis with MRA. For more details, please read the pdf file as uploaded. 
 
 Results: 
 Mean CoWclass Dice: 0.9537 ± 0.022
