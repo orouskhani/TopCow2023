@@ -1,4 +1,4 @@
-# nnUnet with modified loss: Got Rank#3 in Circle of Wilis segmentation challenge (TopCow2023) MICCAI 2023
+# Circle of Wilis segmentation challenge (TopCow2023) MICCAI 2023
 Our Model: 
 
 We used nnU-Net with modified loss and got the 3rd rank in the final phase of Binary Segmentation of the Circle of Willis with MRA. For more details, please read the pdf file as uploaded. 
